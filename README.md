@@ -1,5 +1,7 @@
 # Kata Testing Library - Testing Sostenible con TypeScript
 
+(Versión con Jest)
+
 ## Instrucciones
 * `npm install`
 * `npm test`
